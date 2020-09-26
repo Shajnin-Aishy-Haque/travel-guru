@@ -1,0 +1,52 @@
+
+.header{
+    display: flex;
+    padding-top: 40px;
+    padding-left: 200px;
+    position: absolute;
+   
+    
+}
+.header img{
+    width: 120.26px;
+height: 50px;
+margin-right: 20px;
+margin-bottom: 40px;
+
+
+
+
+}
+nav button{
+  background-color:  #F9A51A;
+  width: 104px;
+height: 44px;
+  border-radius: 5px;
+  border:0;
+}
+nav a{
+  color:white;
+  text-decoration: none;
+}
+
+nav li{
+  display: inline;
+  margin-left: 50px;
+}
+.searchBar{
+  background-color: rgba(224, 222, 222,0.15);
+  border: 1px solid white;
+  width: 270px;
+  height: 35px;border-radius: 5px;
+  
+}
+.searchIcon{
+  color: white;
+  position: absolute;
+  margin-left: 240px;
+  margin-top: 6px;
+}
+::-webkit-input-placeholder{
+  color: white ;
+  text-align: center ;
+}

@@ -1,0 +1,28 @@
+
+.home{
+    height: 100vh;
+    width:100%;
+    background-position: center center;
+    background-size: cover;
+  
+   display: flex;
+   color: white;
+  
+}
+.description-container{
+    margin-top:180px;
+padding: 70px ;
+}
+.card-container{
+    margin-top:180px;
+    display: flex;
+}
+.description-container h1{
+    font-size: 60px;
+}
+.booking-button{
+    width: 160px;
+height: 45px;
+background: #F9A51A;
+border-radius: 5px;
+}

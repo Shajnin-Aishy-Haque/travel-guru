@@ -1,0 +1,9 @@
+.card{
+   -webkit-box-shadow: 0 20 50px rgba(14, 13, 1);
+   position: relative;
+}
+.card h3{
+    position: absolute;
+    bottom: 0;
+    left: 5px;
+}

@@ -1,0 +1,66 @@
+.login{
+    align-items: center;
+}
+.loginForm{
+  
+    position: absolute;
+margin: 150px 500px;
+    border: 1px solid black;
+    width: 470px;
+height: 370px;
+padding: 30px 25px;
+}
+
+
+.CreateAccount{
+position: absolute;
+margin: 150px 500px;
+    border: 1px solid black;
+    width: 470px;
+height: 491px;
+padding: 30px 25px;
+
+}
+.login input{
+    margin:10px;
+   height: 40px;
+    width: 400px;
+    border-bottom:1px  solid rgb(202, 200, 200);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.submit{
+    margin: 30px 0;
+    width: 400px;
+    height: 50px;
+    font-size: 15px;
+    font-weight: 500;
+    background: #F9A51A;
+    border: 0;
+}
+.login p{
+    text-align: center;
+ 
+}
+.login span{
+    color:#F9A51A ;
+    text-decoration: #F9A51A;
+}
+
+.login ::-webkit-input-placeholder{
+    color: rgb(133, 129, 129);
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.loginWithOthers{
+    position: absolute;
+    margin-top: 650px ;
+    margin-left: 530px;
+  text-align: center;
+  
+}
+

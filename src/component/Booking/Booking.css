@@ -1,0 +1,11 @@
+.booking{
+    position: absolute;
+    margin-top: 150px;
+    display:flex;
+    width: 100%;
+    height: 100vh;
+}
+.hotels{
+  
+padding-left: 100px;
+}
